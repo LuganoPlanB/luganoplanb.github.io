@@ -1,0 +1,7 @@
+.site-status {
+  max-width: 980px;
+}
+
+.site-status code {
+  color: var(--planb-color-text);
+}
